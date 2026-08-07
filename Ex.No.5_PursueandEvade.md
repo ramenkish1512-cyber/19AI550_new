@@ -108,13 +108,7 @@ public class Pursuer: MonoBehaviour
 ```
 ### Output:
 
-<img width="610" height="328" alt="WhatsApp Image 2026-07-31 at 14 13 22" src="https://github.com/user-attachments/assets/6a8f4212-5673-4e97-b3aa-046b984e1743" />
-
-
-
-
-
-
+<img width="795" height="375" alt="WhatsApp Image 2026-07-31 at 14 13 24" src="https://github.com/user-attachments/assets/71c0a8b1-5fe0-4cf5-92c6-ffe17ba83c0b" />
 
 
 ### Result:
